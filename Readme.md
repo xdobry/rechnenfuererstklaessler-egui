@@ -12,6 +12,11 @@ The application are much shorter as andoid sdk java app and runs on multiple pla
 
 * The audio sfx effects are not ported
 
+# Prerequisits
+
+You need to install [rust (cargo)](https://www.rust-lang.org/) on your platform
+
+
 # Native compilation
 
 running
